@@ -15,3 +15,6 @@ if cv2.waitKey(10) & 0xFF == ord('q'):
             
 this line of code helps us to break the while loop by oressing the 'q' key on the keyboard 
             the use of a logic gaet is done in theis code (0&FF == ord('q')
+
+
+expression_recognition_app.ipynb is an attempt to put the expression recognition system in the form of an app in the pc 
